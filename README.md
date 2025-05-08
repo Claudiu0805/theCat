@@ -1,2 +1,2 @@
 # theCat
-prima mea pagina web despre o pisica facuta in erasmus
+Prima mea pagina web despre o pisica facuta in erasmus
